@@ -82,31 +82,37 @@ const JsAdvanced = () => {
           <ResourceCardTitle>Articles</ResourceCardTitle>
           <ResourceCardLinks>
             <ResourceLink>
-              <a 
-                target="_blank" 
-                href="https://www.digitalocean.com/community/tutorials/understanding-javascript-promises">
+              <a
+                target="_blank"
+                href="https://www.digitalocean.com/community/tutorials/understanding-javascript-promises"
+              >
                 Understanding JavaScript Promises. ~ Jecelyn Yeen
               </a>
             </ResourceLink>
             <ResourceLink>
-              <a 
-                target="_blank" 
-                href="https://www.digitalocean.com/community/tutorials/js-async-functions">
+              <a
+                target="_blank"
+                href="https://www.digitalocean.com/community/tutorials/js-async-functions"
+              >
                 Exploring Async/Await Functions in JavaScript. ~ Alligator.io
               </a>
             </ResourceLink>
             <ResourceLink>
-              <a 
-                target="_blank" 
-                href="https://www.sitepoint.com/es6-collections-map-set-weakmap-weakset/">
-                ES6 Collections: Using Map, Set, WeakMap, WeakSet. ~ Kyle Pennell
+              <a
+                target="_blank"
+                href="https://www.sitepoint.com/es6-collections-map-set-weakmap-weakset/"
+              >
+                ES6 Collections: Using Map, Set, WeakMap, WeakSet. ~ Kyle
+                Pennell
               </a>
             </ResourceLink>
             <ResourceLink>
-              <a 
-                target="_blank" 
-                href="https://www.freecodecamp.org/news/javascript-design-patterns-explained/">
-                JavaScript Design Patterns – Explained with Examples. ~ Germán Cocca
+              <a
+                target="_blank"
+                href="https://www.freecodecamp.org/news/javascript-design-patterns-explained/"
+              >
+                JavaScript Design Patterns – Explained with Examples. ~ Germán
+                Cocca
               </a>
             </ResourceLink>
           </ResourceCardLinks>

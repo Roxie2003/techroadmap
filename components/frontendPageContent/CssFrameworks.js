@@ -296,7 +296,7 @@ const CssFrameworks = () => {
           <ResourceCardLinks>
             <ResourceLink>
               <a target="_blank" href="https://mui.com/">
-                 Official Website
+                Official Website
               </a>
               <ResourceBadge>Link</ResourceBadge>
             </ResourceLink>

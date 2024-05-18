@@ -81,11 +81,9 @@ const Apis = () => {
                 Working with API&apos;S (Your API Playground) ~ Coding Artist
               </a>
             </ResourceLink>
-            
           </ResourceCardLinks>
         </ResourceCard>
 
-        
         {/* articles  */}
         <ResourceCard>
           <ResourceCardTitle>Articles</ResourceCardTitle>
@@ -95,7 +93,8 @@ const Apis = () => {
                 target="_blank"
                 href="https://snipcart.com/blog/integrating-apis-introduction"
               >
-                A Beginner&apos;s Guide to APIs: How to Integrate and Use Them  ~ Alex Trost
+                A Beginner&apos;s Guide to APIs: How to Integrate and Use Them ~
+                Alex Trost
               </a>
             </ResourceLink>
             <ResourceLink>
@@ -145,7 +144,7 @@ const Apis = () => {
                 target="_blank"
                 href="https://kinsta.com/blog/graphql-vs-rest/#graphql-vs-rest-showdown"
               >
-                GraphQL vs REST: Everything You Need To Know  ~ Solomon Eseme
+                GraphQL vs REST: Everything You Need To Know ~ Solomon Eseme
               </a>
             </ResourceLink>
             <ResourceLink>

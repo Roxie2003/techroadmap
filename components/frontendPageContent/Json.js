@@ -51,7 +51,8 @@ const Json = () => {
                 target="_blank"
                 href="https://www.theserverside.com/definition/JSON-Javascript-Object-Notation"
               >
-                JSON (JavaScript Object Notation) ~ Alexander S. Gillis (TheServerSide)
+                JSON (JavaScript Object Notation) ~ Alexander S. Gillis
+                (TheServerSide)
               </a>
             </ResourceLink>
             <ResourceLink>

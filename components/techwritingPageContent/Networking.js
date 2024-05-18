@@ -54,8 +54,8 @@ const Networking = () => {
               </a>
             </ResourceLink>
             <ResourceLink>
-            <a target="_blank" href="https://www.scaler.com/discord/">
-                Scaler Discord  Community
+              <a target="_blank" href="https://www.scaler.com/discord/">
+                Scaler Discord Community
               </a>
             </ResourceLink>
           </ResourceCardLinks>

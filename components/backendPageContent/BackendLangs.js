@@ -458,7 +458,7 @@ const BackendLangs = () => {
                   href="https://www.doc.ic.ac.uk/lab/cplus/cstyle.html"
                 >
                   Best practices in C ~ Imperial College London
-                </a>  
+                </a>
               </ResourceLink>
               <ResourceLink>
                 <a
@@ -466,7 +466,7 @@ const BackendLangs = () => {
                   href="https://www.simplilearn.com/tutorials/c-tutorial/pointers-in-c"
                 >
                   Pointers in C ~ SimpliLearn
-                </a>  
+                </a>
               </ResourceLink>
             </ResourceCardLinks>
           </ResourceCard>
@@ -600,7 +600,7 @@ const BackendLangs = () => {
           </ResourceCard>
 
           {/* articles */}
-           <ResourceCard>
+          <ResourceCard>
             <ResourceCardTitle>Articles</ResourceCardTitle>
             <ResourceCardLinks>
               <ResourceLink>
@@ -615,20 +615,22 @@ const BackendLangs = () => {
               <ResourceLink>
                 <a
                   target="_blank"
-                  href="https://www.tutorialspoint.com/cplusplus/cpp_web_programming.htm">
+                  href="https://www.tutorialspoint.com/cplusplus/cpp_web_programming.htm"
+                >
                   Learn C&#43;&#43; for web development -Tutorials Point
                 </a>
               </ResourceLink>
               <ResourceLink>
                 <a
                   target="_blank"
-                  href="https://talent500.co/blog/the-growth-of-c-as-a-backend-programming-language/">
-                  The growth of C&#43;&#43; as a backend programming language - Sumit Malviya
+                  href="https://talent500.co/blog/the-growth-of-c-as-a-backend-programming-language/"
+                >
+                  The growth of C&#43;&#43; as a backend programming language -
+                  Sumit Malviya
                 </a>
               </ResourceLink>
             </ResourceCardLinks>
           </ResourceCard>
-          
 
           {/* practical projects */}
           <ResourceCard>
